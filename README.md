@@ -1,0 +1,2 @@
+# Coronary-Heart-Disease-Prediciton-Model
+This is a predictive model that I created to predict if a person would be diagnosed with Coronary Heart Disease (CHD) in the next ten (10) years. I implemented the model in Python (originally in Jupyter Lab) using scikit-learn and XGBoost. The model has around 85% accuracy in its predictions, which, considering the complexity of the topic and the relatively small dataset (the Framingham Heart Study), I found to be a success.
